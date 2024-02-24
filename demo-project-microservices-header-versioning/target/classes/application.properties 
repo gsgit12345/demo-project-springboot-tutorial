@@ -1,0 +1,5 @@
+server.servlet.context-path=/user
+server.port = 9091
+
+
+#http://localhost:8080/swagger-ui/index.html
